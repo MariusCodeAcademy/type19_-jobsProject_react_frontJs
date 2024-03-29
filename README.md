@@ -1,5 +1,7 @@
 ## Naujas projektas
 
+P.S. Tiek kam cia aisku darykites toliau buvusi projekta.
+
 Pasitreniruokite sukurti nauja projekta nuo pradziu. Pasiziuekite kur stringate ir klauskite kur neaisku.
 
 Sukurkite projekta patys nesistenkite perkopijuoti dideliu kodo gabalu is seno projekto.
